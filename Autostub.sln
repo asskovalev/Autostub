@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autostub", "Autostub.csproj", "{666BC19E-2209-41A0-A3FF-DD559279AFE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autostub", "Autostub\Autostub.csproj", "{666BC19E-2209-41A0-A3FF-DD559279AFE3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{D5D3B43D-7A14-47E5-9890-A4832D5363EF}"
 	ProjectSection(SolutionItems) = preProject
@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{D5D3B43D-7A1
 		..\lib\Microsoft.Practices.Unity.xml = ..\lib\Microsoft.Practices.Unity.xml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReflection", "..\FastReflection\FastReflection.csproj", "{1AF37CCA-5D63-4186-B78F-646701E075C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReflection", "FastReflection\FastReflection.csproj", "{1AF37CCA-5D63-4186-B78F-646701E075C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
